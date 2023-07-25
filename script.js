@@ -4,7 +4,7 @@
 // @author       Spax (https://github.com/SpiritAxolotl)
 // @namespace    https://github.com/SpiritAxolotl/X-To-Kaomoji
 // @version      0.5
-// @update       https://github.com/SpiritAxolotl/X-To-Kaomoji/script.js
+// @update       https://raw.githubusercontent.com/SpiritAxolotl/X-To-Kaomoji/main/script.js
 // @supportURL   https://discord.gg/nsKxQvBY8P
 // @match        https://twitter.com/*
 // @icon         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAKVQTFRFAAAADg8PP1hiQGFuPE5VN3aOJ36gAJTMAJbQAJHJMHiUHIGnPVBYMpG0PG6CJywuAKTjAKzuAKHfD6TeNj1AT215AJzYD4KuQW5+U2x1DAwMMoWmAKnqAJnUFBQURlBUD6jjKqLPT4SZUHB8QU5TKZ/MGBgYDw8PSVRYPZa5PD4/D3+qAIm9AJ/bRJGvAwMDKCgoTlpfUIecVXiGTFRWHx8fBwcHJ7KEygAAAIZJREFUeJxjYCACMEJIJmYWBkYwm5UFRLKxc3BycfOAmLycfIwM/AKCgoJCwiIgAVFBMXE+CUEQkJQCCUgLCsqIyYIF5MDGySsIQoEixBYpJZiIMtReFVWoAjWogLqGJpivBXUXn7aOLpCvp6UPEdA3MDQyMjI2MdCHu13K1NRUzYwYX4IBAPUNCy90cHZKAAAAAElFTkSuQmCC
