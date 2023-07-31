@@ -3,7 +3,7 @@
 // @description  because the x SUCKS
 // @author       Spax (https://github.com/SpiritAxolotl)
 // @namespace    https://github.com/SpiritAxolotl/X-To-Kaomoji
-// @version      0.5
+// @version      0.5.2
 // @update       https://raw.githubusercontent.com/SpiritAxolotl/X-To-Kaomoji/main/script.js
 // @supportURL   https://discord.gg/nsKxQvBY8P
 // @match        https://twitter.com/*
